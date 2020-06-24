@@ -1,4 +1,3 @@
-
 class Cenario {
   constructor(imagem, velocidade) {
     this.imagem = imagem;
