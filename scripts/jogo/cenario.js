@@ -23,5 +23,4 @@ class Cenario {
       this.x2 = width;
     }
   }
-  
 }

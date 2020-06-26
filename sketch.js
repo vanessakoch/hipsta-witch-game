@@ -1,4 +1,4 @@
-// Chamado apenas uma vez antes do jogo começar
+// chamado apenas uma vez antes do jogo começar
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
@@ -8,13 +8,13 @@ function setup() {
 
   jogo = new Jogo();
   telaInicial = new TelaInicial();
-  botaoGerenciador = new BotaoGerenciador('Iniciar', width / 2, height / 2);
   
   jogo.setup();
   cenas = {
     jogo,
     telaInicial 
   };
+  botaoGerenciador = new BotaoGerenciador('Iniciar', width / 2, height / 2);
 }
 
 function keyPressed() {
