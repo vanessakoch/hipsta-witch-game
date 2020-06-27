@@ -22,7 +22,7 @@ let inimigoAtual = 0;
 let inimigoGrande;
 let inimigoVoador;
 
-let cenaAtual = 'jogo';
+let cenaAtual = 'telaInicial';
 let cenas; 
 let telaInicial;
 
