@@ -1,10 +1,4 @@
-<h3 align="center">#ImersãoGameDev - Jogo da bruxinha Hipsta</h3>
-
-<br />
-
-<h3 align="center"> 
-  <img src="https://i.ytimg.com/vi/NAGb_i94UYo/maxresdefault.jpg" style="width:70%" />
-</h3>
+<h3 align="center">#ImersãoGameDev - Alura - Jogo da bruxinha Hipsta</h3>
 
 <br />
 
@@ -17,13 +11,30 @@ Foram 5 aulas gratuitas para criar um jogo da bruxinha **Hipsta** do zero com **
 <br />
 
 ---
-## :computer: Demonstração 
+## :computer: Demonstração
 
 <br />
 
+<h3 align="center">
+  <img src="imagens/cenario/1.png"/>
+</h3>
+
+<h3 align="center">
+  <img src="imagens/cenario/2.png"/>
+</h3>
+
+<h3 align="center">
+  <img src="imagens/cenario/3.png"/>
+</h3>
+
+<h3 align="center">
+  <img src="imagens/cenario/4.png"/>
+</h3>
+
+<br >
+
 <div align="center">
-  <iframe src="https://editor.p5js.org/ vahnkoch/embed/m9Er9VVMh">
-  </iframe>
+  <b><a src="https://laughing-jang-8b58e3.netlify.app/">Clique aqui para jogar</a>
 </div>
 
 <br />
