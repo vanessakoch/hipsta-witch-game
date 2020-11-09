@@ -11,18 +11,19 @@
 ---
 <br />
 
-## Sobre 😊
+## 😊 Sobre 
 Foram 5 aulas gratuitas para criar um jogo da bruxinha **Hipsta** do zero com **JavaScript** e utilizando uma biblioteca **p5.js** do JS para criar experiências gráficas e interativas, com base nos princípios de Processamento.
 
 <br />
 
 ---
-## Demonstração :eyeglasses:
+## :computer: Demonstração 
 
 <br />
 
-<div>
-  <iframe style="width:100%" src="https://laughing-jang-8b58e3.netlify.app/"></iframe>
+<div align="center">
+  <iframe src="https://editor.p5js.org/ vahnkoch/embed/m9Er9VVMh">
+  </iframe>
 </div>
 
 <br />
