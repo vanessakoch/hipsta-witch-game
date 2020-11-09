@@ -33,9 +33,7 @@ Foram 5 aulas gratuitas para criar um jogo da bruxinha **Hipsta** do zero com **
 
 <br >
 
-<div align="center">
-  <b><a src="https://laughing-jang-8b58e3.netlify.app/">Clique aqui para jogar</a>
-</div>
+[Clique aqui para jogar](https://laughing-jang-8b58e3.netlify.app/)
 
 <br />
 
